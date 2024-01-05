@@ -37,8 +37,8 @@ export default function Home() {
             <span className="text-blue-600">digital assets</span>
           </h1>
           <p className="mt-6 sm:text-xl max-w-prose text-muted-foreground">
-            Welcome to digitalHippo. We are a marketplace for digital assets.
-            Every assets on our platform is unique and are verified by our team.
+            Welcome to Horizon. We are a marketplace for digital assets. Every
+            assets on our platform is unique and are verified by our team.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 mt-6">
             <Link href={"/products"} className={buttonVariants()}>
