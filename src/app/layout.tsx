@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Horizon Marketplace",
-  description: "Your marketplace for digital goods",
+  description: "Your marketplace for digital goods, trusted and safe payments",
 };
 
 export default function RootLayout({
