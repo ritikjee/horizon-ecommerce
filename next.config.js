@@ -14,6 +14,10 @@ const nextConfig = {
         protocol: "https",
         hostname: "i.ibb.co",
       },
+      {
+        protocol: "https",
+        hostname: "https://horizon-ecommerce-wljo.vercel.app",
+      },
     ],
   },
 };
