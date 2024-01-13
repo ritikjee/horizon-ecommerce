@@ -8,15 +8,11 @@ const nextConfig = {
       },
       {
         protocol: "https",
-        hostname: "digitalhippo-production.up.railway.app",
+        hostname: "https://horizon-marketplace.netlify.app/",
       },
       {
         protocol: "https",
         hostname: "i.ibb.co",
-      },
-      {
-        protocol: "https",
-        hostname: "https://horizon-ecommerce-wljo.vercel.app",
       },
     ],
   },
